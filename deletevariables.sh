@@ -6,5 +6,7 @@ unset name
 
 echo "After the deletion: $name"
 
+# output:
+
 # Before deletion: Rajasekhar
 # After delettion:
